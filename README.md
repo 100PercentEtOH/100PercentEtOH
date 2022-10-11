@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @wtoh2
-- 👀 I’m interested in applications of CS in healthcare and biomedical research   
-- 🌱 I’m currently studying molecular and cellular biology and computational medicine at Johns Hopkins University
+- 🌱 I’m studying CS and molecular biology at Johns Hopkins University
 - 📫 How to reach me: enochtoh@gmail.com
 
 <!---
